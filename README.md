@@ -129,6 +129,9 @@ Use this folder to house Claude-related or OpenAI logic later if you decide to e
 
 Enjoy hacking the stack, responsibly. 
 
+Some useful links you might need to know about this repo:
+1- https://medium.com/@hamza_roujdami/model-context-protocol-mcp-vs-semantic-kernel-sk-a-comparison-for-ai-agent-integration-d5b01bbeb160
 
+2- https://devblogs.microsoft.com/semantic-kernel/integrating-model-context-protocol-tools-with-semantic-kernel-a-step-by-step-guide/
 
 <img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/0220aae6-3f08-4300-88f3-25f63fc13b51" />
