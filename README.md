@@ -1,10 +1,3 @@
-MalAgent AI is an automated malware analysis and generation system using [Semantic Kernel]-style planning and [Model Context Protocol (MCP)] for dynamic tool integration.
-
-
-
-<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/0220aae6-3f08-4300-88f3-25f63fc13b51" />
-
-
 
 # 🦠 MalAgent AI
 
@@ -135,3 +128,7 @@ Use this folder to house Claude-related or OpenAI logic later if you decide to e
 ---
 
 Enjoy hacking the stack, responsibly. 
+
+
+
+<img width="720" height="720" alt="image" src="https://github.com/user-attachments/assets/0220aae6-3f08-4300-88f3-25f63fc13b51" />
